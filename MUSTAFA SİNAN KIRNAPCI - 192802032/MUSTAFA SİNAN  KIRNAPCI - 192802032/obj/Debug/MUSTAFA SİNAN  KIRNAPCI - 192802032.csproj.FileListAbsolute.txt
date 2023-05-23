@@ -1,0 +1,23 @@
+C:\Users\sinan\OneDrive\Masaüstü\Proje\MUSTAFA SİNAN KIRNAPCI - 192802032\MUSTAFA SİNAN  KIRNAPCI - 192802032\bin\Debug\NYP_ProjeOdevi_Market.exe.config
+C:\Users\sinan\OneDrive\Masaüstü\Proje\MUSTAFA SİNAN KIRNAPCI - 192802032\MUSTAFA SİNAN  KIRNAPCI - 192802032\bin\Debug\NYP_ProjeOdevi_Market.exe
+C:\Users\sinan\OneDrive\Masaüstü\Proje\MUSTAFA SİNAN KIRNAPCI - 192802032\MUSTAFA SİNAN  KIRNAPCI - 192802032\bin\Debug\NYP_ProjeOdevi_Market.pdb
+C:\Users\sinan\OneDrive\Masaüstü\Proje\MUSTAFA SİNAN KIRNAPCI - 192802032\MUSTAFA SİNAN  KIRNAPCI - 192802032\obj\Debug\MUSTAFA SİNAN  KIRNAPCI - 192802032.csprojAssemblyReference.cache
+C:\Users\sinan\OneDrive\Masaüstü\Proje\MUSTAFA SİNAN KIRNAPCI - 192802032\MUSTAFA SİNAN  KIRNAPCI - 192802032\obj\Debug\NYP_ProjeOdevi_Market.Form1.resources
+C:\Users\sinan\OneDrive\Masaüstü\Proje\MUSTAFA SİNAN KIRNAPCI - 192802032\MUSTAFA SİNAN  KIRNAPCI - 192802032\obj\Debug\NYP_ProjeOdevi_Market.Form2.resources
+C:\Users\sinan\OneDrive\Masaüstü\Proje\MUSTAFA SİNAN KIRNAPCI - 192802032\MUSTAFA SİNAN  KIRNAPCI - 192802032\obj\Debug\NYP_ProjeOdevi_Market.Properties.Resources.resources
+C:\Users\sinan\OneDrive\Masaüstü\Proje\MUSTAFA SİNAN KIRNAPCI - 192802032\MUSTAFA SİNAN  KIRNAPCI - 192802032\obj\Debug\MUSTAFA SİNAN  KIRNAPCI - 192802032.csproj.GenerateResource.cache
+C:\Users\sinan\OneDrive\Masaüstü\Proje\MUSTAFA SİNAN KIRNAPCI - 192802032\MUSTAFA SİNAN  KIRNAPCI - 192802032\obj\Debug\MUSTAFA SİNAN  KIRNAPCI - 192802032.csproj.CoreCompileInputs.cache
+C:\Users\sinan\OneDrive\Masaüstü\Proje\MUSTAFA SİNAN KIRNAPCI - 192802032\MUSTAFA SİNAN  KIRNAPCI - 192802032\obj\Debug\NYP_ProjeOdevi_Market.exe
+C:\Users\sinan\OneDrive\Masaüstü\Proje\MUSTAFA SİNAN KIRNAPCI - 192802032\MUSTAFA SİNAN  KIRNAPCI - 192802032\obj\Debug\NYP_ProjeOdevi_Market.pdb
+D:\sandisk 128\Ödevler\MUSTAFA SİNAN KIRNAPCI - 192802032\MUSTAFA SİNAN  KIRNAPCI - 192802032\bin\Debug\NYP_ProjeOdevi_Market.exe.config
+D:\sandisk 128\Ödevler\MUSTAFA SİNAN KIRNAPCI - 192802032\MUSTAFA SİNAN  KIRNAPCI - 192802032\bin\Debug\NYP_ProjeOdevi_Market.exe
+D:\sandisk 128\Ödevler\MUSTAFA SİNAN KIRNAPCI - 192802032\MUSTAFA SİNAN  KIRNAPCI - 192802032\bin\Debug\NYP_ProjeOdevi_Market.pdb
+D:\sandisk 128\Ödevler\MUSTAFA SİNAN KIRNAPCI - 192802032\MUSTAFA SİNAN  KIRNAPCI - 192802032\obj\Debug\MUSTAFA SİNAN  KIRNAPCI - 192802032.csproj.AssemblyReference.cache
+D:\sandisk 128\Ödevler\MUSTAFA SİNAN KIRNAPCI - 192802032\MUSTAFA SİNAN  KIRNAPCI - 192802032\obj\Debug\MUSTAFA SİNAN  KIRNAPCI - 192802032.csproj.SuggestedBindingRedirects.cache
+D:\sandisk 128\Ödevler\MUSTAFA SİNAN KIRNAPCI - 192802032\MUSTAFA SİNAN  KIRNAPCI - 192802032\obj\Debug\NYP_ProjeOdevi_Market.Form1.resources
+D:\sandisk 128\Ödevler\MUSTAFA SİNAN KIRNAPCI - 192802032\MUSTAFA SİNAN  KIRNAPCI - 192802032\obj\Debug\NYP_ProjeOdevi_Market.Form2.resources
+D:\sandisk 128\Ödevler\MUSTAFA SİNAN KIRNAPCI - 192802032\MUSTAFA SİNAN  KIRNAPCI - 192802032\obj\Debug\NYP_ProjeOdevi_Market.Properties.Resources.resources
+D:\sandisk 128\Ödevler\MUSTAFA SİNAN KIRNAPCI - 192802032\MUSTAFA SİNAN  KIRNAPCI - 192802032\obj\Debug\MUSTAFA SİNAN  KIRNAPCI - 192802032.csproj.GenerateResource.cache
+D:\sandisk 128\Ödevler\MUSTAFA SİNAN KIRNAPCI - 192802032\MUSTAFA SİNAN  KIRNAPCI - 192802032\obj\Debug\MUSTAFA SİNAN  KIRNAPCI - 192802032.csproj.CoreCompileInputs.cache
+D:\sandisk 128\Ödevler\MUSTAFA SİNAN KIRNAPCI - 192802032\MUSTAFA SİNAN  KIRNAPCI - 192802032\obj\Debug\NYP_ProjeOdevi_Market.exe
+D:\sandisk 128\Ödevler\MUSTAFA SİNAN KIRNAPCI - 192802032\MUSTAFA SİNAN  KIRNAPCI - 192802032\obj\Debug\NYP_ProjeOdevi_Market.pdb
